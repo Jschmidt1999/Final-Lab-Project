@@ -1,16 +1,31 @@
+### 🎓 Lab 10 – Jackson Schmidt
+
 # Final-Lab-Project
- Displaying short answer and algorithm responses dynamically with formatting.
 
+**Displaying short answer and algorithm responses dynamically with formatting.**
 
-#   Lab 10       Jackson Schmidt
+---
 
-# personal notes: I spent the better part of a few days and multiple hours slowly applying all that we have
-#                 learned from the course, and I wanted to go above and beyond on this last homework.
-#                 Thank you for the opportunity to pursue a dream of mine since I was a kid — now seeing it
-#                 come to fruition is incredible.
-#                 Enjoy my heavily over-engineered Lab 10 Assignment that I'm pretty sure
-#                 you can get a 100 on without writing any code, haha.
+> *“Enjoy my heavily over-engineered Lab 10 Assignment that I'm pretty sure you can get a 100 on without writing any code, haha.”*
 
+This project demonstrates:
+- Class-based design (encapsulation, dynamic method calls)
+- Dictionary-based storage and retrieval
+- Clean terminal UI formatting (typing effect, line-by-line output)
+- Separation of logic by header/question/answer display
+
+---
+
+### 📁 Files
+- `main.py` — core script for timed question/answer display
+- `README.md` — this file you're reading
+- No external dependencies required (standard Python libraries)
+
+---
+
+### 🔧 How to Run
+```bash
+python main.py
 
 #  =======================================================
 #  !!! BEST VIEWED IN FULL SCREEN FOR DISPLAY PURPOSES !!!

@@ -20,6 +20,9 @@ This project demonstrates:
 - `main.py` — core script for timed question/answer display
 - `README.md` — this file you're reading
 - No external dependencies required (standard Python libraries)
+### 🎬 Demo
+
+![Demo of Lab 10 Script](demo.gif)
 
 ---
 
